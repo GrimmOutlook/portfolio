@@ -1,0 +1,14 @@
+@media screen and (min-width: 480px) {
+  #wrapper {
+    background: white;
+  }
+}
+
+
+/*-----------LARGE TABLETS - NORMAL SIZE DESKTOPS-------------*/
+
+@media screen and (min-width: 660px) {
+  #wrapper {
+    background: #7fbcf8;
+  }
+}

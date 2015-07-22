@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"exp",
+				"expiration_date"
+			],
+			[
+				"p",
+				"process"
+			],
+			[
+				"products",
+				"products_path"
+			],
+			[
+				"form",
+				"form_tag"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"admin",
+				"admin_product_path"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"ste",
+				"steelers"
+			],
+			[
+				"name",
+				"name00"
+			],
+			[
+				"num",
+				"number00"
+			],
+			[
+				"position",
+				"position00"
+			],
+			[
+				"nu",
+				"number00"
+			],
+			[
+				"n",
+				"name00"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"nam",
+				"name3"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"op",
+				"optgroup	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davidgrimm/ccts/app/assets/images/social_links.png",
+		"/Users/davidgrimm/ccts/app/assets/stylesheets/header.scss",
+		"/Users/davidgrimm/ccts/app/views/layouts/_header.html.erb",
+		"/Users/davidgrimm/ccts/app/assets/stylesheets/footer.scss",
+		"/Users/davidgrimm/ccts/app/views/layouts/_footer.html.erb",
+		"/Users/davidgrimm/.bash_profile",
+		"/Users/davidgrimm/.bash-profile",
+		"/Users/davidgrimm/ccts/interview.rb",
+		"/Users/davidgrimm/th/todo/Gemfile",
+		"/Users/davidgrimm/bewd/bstore/.gitignore",
+		"/Users/davidgrimm/bewd/bstore/Procfile",
+		"/Users/davidgrimm/bewd/bstore/app/views/orders/new.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/application_controller.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/layouts/application.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/models/credit_card.rb",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/orders_controller.rb",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/subscriptions_controller.rb",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/customers_controller.rb",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/admin/products_controller.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/carts/show.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/carts_controller.rb",
+		"/Users/davidgrimm/bewd/bstore/Gemfile",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/products_controller.rb",
+		"/Users/davidgrimm/learnyounode/lesson_one/first_io.js",
+		"/Users/davidgrimm/learnyounode/lesson_one/first.js",
+		"/Users/davidgrimm/learnyounode/lesson_one/baby_steps.js",
+		"/Users/davidgrimm/learnyounode/lesson_one/asynch.js",
+		"/Users/davidgrimm/learnyounode/lesson_one/filter.js",
+		"/Users/davidgrimm/bewd/bstore/app/views/customers/new.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/views/orders/show.html.erb",
+		"/Users/davidgrimm/bewd/bstore/config/environments/production.rb",
+		"/Users/davidgrimm/bewd/bstore/app/models/[dir",
+		"/Users/davidgrimm/bewd/bstore/app/views/admin/products/_form.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/views/admin/products/index.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/models/customer.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/admin/logins/new.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/views/products/show.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/controllers/admin/logins_controller.rb",
+		"/Users/davidgrimm/bewd/bstore/app/mailers/user_mailer.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/customer_mailer/verify.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/mailers/customer_mailer.rb",
+		"/Users/davidgrimm/bewd/bstore/test/mailers/customer_mailer_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/mailers/previews/customer_mailer_preview.rb",
+		"/Users/davidgrimm/bewd/bstore/config/environments/development.rb",
+		"/Users/davidgrimm/bewd/bstore/config/application.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/verify.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/views/user_mailer/welcome.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/views/layouts/admin.html.erb",
+		"/Users/davidgrimm/bewd/bstore/db/schema.rb",
+		"/Users/davidgrimm/bewd/bstore/db/migrate/20140417205303_verified_at_to_customers.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/admin/products/new.html.erb",
+		"/Users/davidgrimm/bewd/bstore/test/mailers/previews/user_mail_preview.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/admin/products/show.html.erb",
+		"/Users/davidgrimm/bewd/bstore/app/models/user.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/admin/products/edit.html.erb",
+		"/Users/davidgrimm/bewd/bstore/bin/rake",
+		"/Users/davidgrimm/bewd/bstore/bin/rails",
+		"/Users/davidgrimm/bewd/bstore/test/integration/create_subscription_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/fixtures/users.yml",
+		"/Users/davidgrimm/bewd/bstore/config/initializers/timeout.rb",
+		"/Users/davidgrimm/bewd/bstore/config/puma.rb",
+		"/Users/davidgrimm/bewd/bstore/.git/config",
+		"/Users/davidgrimm/bewd/bstore/config/database.yml",
+		"/Users/davidgrimm/bewd/bstore/Gemfile.lock",
+		"/Users/davidgrimm/bewd/bstore/db/migrate/20140410230832_create_users.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/layouts/_flash.html.erb",
+		"/Users/davidgrimm/bewd/bstore/db/seeds.rb",
+		"/Users/davidgrimm/bewd/bstore/.git/COMMIT_EDITMSG",
+		"/Users/davidgrimm/bewd/bstore/config/initializers/secret_token.rb",
+		"/Users/davidgrimm/bewd/bstore/tmp/brakeman.html",
+		"/Users/davidgrimm/bewd/bstore/app/models/line_item.rb",
+		"/Users/davidgrimm/bewd/bstore/config/initializers/filter_parameter_logging.rb",
+		"/Users/davidgrimm/bewd/bstore/.postgresignore",
+		"/Users/davidgrimm/bewd/bstore/.ruby-version",
+		"/Users/davidgrimm/bewd/bstore/app/assets/javascripts/application.js",
+		"/Users/davidgrimm/bewd/bstore/test/integration/manage_admin_products_test.rb",
+		"/Users/davidgrimm/bewd/bstore/app/models/order.rb",
+		"/Users/davidgrimm/bewd/bstore/app/models/product.rb",
+		"/Users/davidgrimm/bewd/bstore/test/models/category_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/models/credit_card_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/models/customer_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/models/line_item_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/models/order_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/models/product_test.rb",
+		"/Users/davidgrimm/bewd/bstore/test/test_helper.rb",
+		"/Users/davidgrimm/bewd/bstore/app/assets/stylesheets/application.css",
+		"/Users/davidgrimm/bewd/bstore/Rakefile",
+		"/Users/davidgrimm/bewd/bstore/app/assets/javascripts/bootstrap.js",
+		"/Users/davidgrimm/bewd/bstore/app/views/subscriptions/_form.html.erb",
+		"/Users/davidgrimm/bewd/bstore/test/controllers/subscriptions_controller_test.rb",
+		"/Users/davidgrimm/bewd/bstore/app/views/products/index.html.erb",
+		"/Users/davidgrimm/bewd/bstore/config/routes.rb",
+		"/Users/davidgrimm/bewd/bstore/test/fixtures/orders.yml",
+		"/Users/davidgrimm/bewd/bstore/app/models/category.rb",
+		"/Users/davidgrimm/bewd/bstore/test/fixtures/customers.yml",
+		"/Users/davidgrimm/bewd/bstore/faker_stuff.rb",
+		"/Users/davidgrimm/bewd/bstore/.DS_Store",
+		"/Users/davidgrimm/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/davidgrimm/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/davidgrimm/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/davidgrimm/bewd/bstore/test/fixtures/categories.yml",
+		"/Users/davidgrimm/bewd/bstore/test/fixtures/line_items.yml",
+		"/Users/davidgrimm/bewd/practice/rubyruby.rb",
+		"/Users/davidgrimm/bewd/practice/code.rb",
+		"/Users/davidgrimm/bewd/practice/mykey.pem",
+		"/Users/davidgrimm/bewd/practice/pub_priv_key.rb",
+		"/var/folders/8c/8c140t3x6tq_81hp9p2lc_n80000gp/T/psql.edit.2634.sql",
+		"/var/folders/8c/8c140t3x6tq_81hp9p2lc_n80000gp/T/psql.edit.2300.sql",
+		"/Users/davidgrimm/th/ruby-th/treehouse-ruby.rb",
+		"/Users/davidgrimm/th/portfolio/images/betamore.jpg",
+		"/Users/davidgrimm/th/portfolio/images/github.png",
+		"/Users/davidgrimm/th/portfolio/images/linkedin.png",
+		"/Users/davidgrimm/portfolio/stylesheets/main.css",
+		"/stylesheets/main.css",
+		"/Users/davidgrimm/rubypractice.rb",
+		"/Users/davidgrimm/practice/post.html",
+		"/Users/davidgrimm/Documents/htmlpractice.html",
+		"/Users/davidgrimm/Documents/form1page.html",
+		"/Users/davidgrimm/Documents/colors.css",
+		"/Users/davidgrimm/Documents/typography.css",
+		"/Users/davidgrimm/Documents/layout.css",
+		"/Users/davidgrimm/Documents/application.css",
+		"/Users/davidgrimm/Documents/page3.html",
+		"/Users/davidgrimm/Documents/anotherfile.html",
+		"/Users/davidgrimm/practice/code.rb",
+		"/Users/davidgrimm/bewd/hello/tdd_test.rb",
+		"/Users/davidgrimm/bewd/hello/tdd.rb",
+		"/Users/davidgrimm/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"socials",
+			"hover",
+			"info",
+			"puts",
+			"files",
+			"product",
+			"Product",
+			"user",
+			">\n",
+			"notice",
+			"product",
+			"customer",
+			"field_tag",
+			"password",
+			"email",
+			"3",
+			"price",
+			"d",
+			"h",
+			"h3",
+			"customer",
+			"Customer",
+			"customer",
+			"linkedin",
+			"line_item",
+			"calculate_total",
+			"line_item",
+			"I",
+			"      <",
+			"=\"#",
+			"<li>1st Item</li>",
+			"p",
+			"first_name",
+			"firstName"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"d",
+				"config/database.yml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
